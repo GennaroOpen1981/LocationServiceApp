@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationService</string>
+    <string name="action_settings">Settings</string>
+    <string name="loc_service_text">Location Service</string>
+    <string name="lat">Lat: </string>
+    <string name="lon">Lon: </string>
+    <string name="vel">Velocity: </string>
+</resources>
